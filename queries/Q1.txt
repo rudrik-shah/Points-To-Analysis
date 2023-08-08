@@ -1,0 +1,7 @@
+P5:m1:a alias b
+P5:m1:a alias c
+P5:m1:b alias c
+P5:m1:i alias b
+P5:m1:j alias c
+P5:m1:i alias c
+P5:m1:j alias b
